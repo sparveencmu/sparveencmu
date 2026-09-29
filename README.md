@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer → Applied AI / Forward Deployed Engineer
 
-**13 years of software engineering experience** building backend services, distributed systems, cloud applications, and production software — now focused on **Applied AI, AI agents, and AI infrastructure**.
+**Software engineer with extensive experience** building backend services, distributed systems, cloud applications, and production software — now focused on **Applied AI, AI agents, and AI infrastructure**.
 
 I enjoy taking AI systems from **prototype → evaluation → production**, with an emphasis on reliable backend architecture, observability, human-in-the-loop workflows, and measurable system behavior.
 
