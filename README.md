@@ -46,7 +46,7 @@ An agentic system designed to help engineers investigate production incidents by
 * Evaluation of agent behavior and execution traces
 * Cloud-native deployment
 
-→ **[View project](#)**
+→ **[View project](https://github.com/sparveencmu/incident-reasoning-engine)**
 
 ---
 
@@ -72,7 +72,7 @@ An AI-powered workflow for processing expense information through an event-drive
 * Cloud deployment
 * Agent evaluation and execution tracing
 
-→ **[View project](#)**
+→ **[View project](https://github.com/sparveencmu/ambient-expense-agent)**
 
 ---
 
