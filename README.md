@@ -65,6 +65,6 @@ An AI-powered workflow for processing expense information through an event-drive
 ---
 ## Let's Connect
 
-**Portfolio:** [github.com/sparveencmu](https://sparveencmu.github.io/)
+**Portfolio:** [sparveencmu.github.io](https://sparveencmu.github.io/)
 
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shaziaparveenn/)
