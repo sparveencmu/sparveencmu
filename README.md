@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shazia Parveen
 
-### Senior Software Engineer | Applied AI, Agentic Systems & Distributed Systems
+### Applied AI Engineer | Backend & AI Systems
 
 **Software engineer with extensive experience** building backend services, distributed systems, cloud applications, and production software. Currently focused on **Applied AI, AI Agents, and AI infrastructure**.
 
