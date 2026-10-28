@@ -8,18 +8,6 @@ I enjoy taking AI systems from **prototype → evaluation → production**, with
 
 ---
 
-## What I Build
-
-* 🤖 Production-oriented **AI agents and agentic systems**
-* 🔎 **RAG and LLM applications**
-* 📊 **AI evaluation and observability systems**
-* ⚙️ Event-driven and distributed backend services
-* ☁️ Cloud-native applications and AI infrastructure
-* 👤 **Human-in-the-loop AI workflows**
-* 🔌 AI systems integrating APIs, data pipelines, and external tools
-
----
-
 ## Featured Projects
 
 ### 🚨 Incident Reasoning Engine
@@ -75,8 +63,6 @@ An AI-powered workflow for processing expense information through an event-drive
 → **[View project](https://github.com/sparveencmu/ambient-expense-agent)**
 ---
 ## Let's Connect
-
-I'm interested in building practical AI systems that move beyond demos and into **reliable, measurable production workflows**.
 
 **Portfolio:** [github.com/sparveencmu](https://sparveencmu.github.io/)
 
